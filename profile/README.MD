@@ -2,8 +2,6 @@
 
 Welcome to **zeroSec**, the leading provider of advanced Lua obfuscation solutions. Our mission is to protect your Lua scripts from reverse engineering and unauthorized use, ensuring the highest level of security for your code.
 
-![zeroSec Logo](https://api.zero.vodka/v1/files/logo.gif) 
-
 ## Overview
 
 Lua is a powerful scripting language widely used in game development, embedded systems, and more. However, its open nature makes it vulnerable to reverse engineering. zeroSec offers a high-quality obfuscation solution that safeguards your Lua scripts by making them difficult to read and decompile, without compromising performance.
