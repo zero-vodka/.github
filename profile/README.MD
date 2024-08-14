@@ -2,7 +2,7 @@
 
 Welcome to **zeroSec**, the leading provider of advanced Lua obfuscation solutions. Our mission is to protect your Lua scripts from reverse engineering and unauthorized use, ensuring the highest level of security for your code.
 
-![zeroSec Logo](https://api.zero.vodka/files/logo.gif) 
+![zeroSec Logo](https://api.zero.vodka/v1/files/logo.gif) 
 
 ## Overview
 
@@ -29,11 +29,6 @@ Join our growing community to get support, share ideas, and collaborate:
 - **Discord**: Connect with us on our [Discord server](https://discord.gg/zerosec) for real-time support and discussions.
 - **Website**: Visit our official website at [zero.vodka](https://zero.vodka) for more information and updates.
 
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
